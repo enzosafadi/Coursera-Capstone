@@ -67,7 +67,7 @@ flowchart TD
 ## Methodology
 
 1. Prepare neighborhood names and geographic coordinates for Toronto and New York.
-2. retrieve nearby venue information for each neighborhood.
+2. Retrieve nearby venue information for each neighborhood.
 3. Convert venue categories into numerical neighborhood profiles.
 4. Combine the city datasets into a shared feature space.
 5. Reduce dimensionality while retaining the principal variation.
