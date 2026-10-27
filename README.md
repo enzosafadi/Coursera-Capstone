@@ -91,3 +91,9 @@ These commands prepare an environment; they do not resolve the historical paths,
 - No production application, validated profitability estimate, or measured client benefit is claimed.
 
 **April 2021 · Academic portfolio project · Enzo Safadi**
+
+## Who it benefits
+
+Location researchers, relocation analysts and students: a historical example of comparing Toronto and New York neighborhood amenities. Current repository contents are an academic archive with reproducibility work outstanding.
+
+These are intended users and benefits, not evidence of adoption or measured customer outcomes.
