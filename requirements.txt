@@ -1,0 +1,13 @@
+# Suggested review/modernization environment; not a historical lockfile.
+# Full legacy execution requires the repairs documented in docs/SETUP.md.
+jupyter
+pandas
+numpy
+requests
+beautifulsoup4
+lxml
+scikit-learn
+folium
+geopy
+matplotlib
+openpyxl

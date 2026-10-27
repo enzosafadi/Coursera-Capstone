@@ -1,0 +1,19 @@
+# Local Python environments and notebook state
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+# Credentials and machine configuration
+.env
+.env.*
+!.env.example
+# Regenerated data and outputs
+data/raw/
+data/processed/
+outputs/
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
