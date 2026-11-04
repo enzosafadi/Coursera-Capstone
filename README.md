@@ -97,3 +97,7 @@ These commands prepare an environment; they do not resolve the historical paths,
 Location researchers, relocation analysts and students: a historical example of comparing Toronto and New York neighborhood amenities. Current repository contents are an academic archive with reproducibility work outstanding.
 
 These are intended users and benefits, not evidence of adoption or measured customer outcomes.
+
+## Repository verification
+
+[Current scoped verification results](VERIFICATION.md). Run `python tools/verify_repository.py --visibility public`.
